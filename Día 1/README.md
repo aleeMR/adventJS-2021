@@ -3,7 +3,7 @@
 <table frame="box">
   <tr>
     <td>Con la emoción de que llega la navidad, nos está costando dormir bastante últimamente. Vamos a intentar usar este pequeño truco que nos ayudará a dormir más rápido 🐑.</td>
-    <td align="center"><img src="../images/sheep.png" width="200"/></td>
+    <td align="center"><a href="https://adventjs.dev/challenges/01"><img src="../images/sheep.png" width="200"/></a></td>
   </tr>
 </table>
 
