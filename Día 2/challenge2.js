@@ -1,6 +1,3 @@
-// Cadena de regalos
-const carta = 'bici coche balón _playstation bici coche peluche'
-
 // Función para obtener el nombre de cada regalo y las veces que aparece
 function listGifts(letter) {
   let gifts = letter.split(' ')
@@ -16,6 +13,9 @@ function listGifts(letter) {
   
   return objGifts
 }
+
+// Cadena de regalos
+const carta = 'bici coche balón _playstation bici coche peluche'
 
 // Llamada a la función
 const regalos = listGifts(carta)
