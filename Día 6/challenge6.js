@@ -10,7 +10,7 @@ function sumPairs(numbers, result) {
   return null
 }
 
-// Llamada la función y resultados
+// Llamada a la función y resultados
 console.log(sumPairs([3, 5, 7, 2], 10)) // [3, 7]
 console.log(sumPairs([-3, -2, 7, -5], 10)) // null
 console.log(sumPairs([2, 2, 3, 1], 4)) // [2, 2]
